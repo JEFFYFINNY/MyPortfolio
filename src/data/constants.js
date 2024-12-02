@@ -161,7 +161,7 @@ export const Bio = {
         "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
       image:
         "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
-      tags: ["HTML", "CSS", "Javascript", "Bootsrap"],
+      tags: ["HTML", "CSS", "Javascript", "NodeJs"," Express.js", "MongoDB"],
       category: "web site",
       github: "https://github.com/JEFFYFINNY/Major_Project",
       website: "https://major-project-p6bp.onrender.com",
@@ -174,9 +174,10 @@ export const Bio = {
         ": It is a website that has the collection of study materials for JEE/NEET.It is designed for students where they can sell their books which are not in use any more and it also helps students who can't afford JEE/NEET coaching to buy those books and notes. Selling and buying all available in a single website.",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo7F2KgT0IlzOYi_10_0m35n9YPovKp6MjOw&s",
-      tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
+      tags: ["HTML", "CSS", "Javascript","Bootsrap"],
       category: "web site",
       github: "https://github.com/JEFFYFINNY/Worth-Tome",
+      website: "https://worthtome.netlify.app/",
     },
     {
       id: 6,
